@@ -17,7 +17,8 @@
     "@remix-run/serve": "^2.4.1",
     "isbot": "^3.6.8",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "redis": "^4.7.0"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.4.1",
@@ -30,7 +31,9 @@
     "eslint-plugin-jsx-a11y": "^6.7.1",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "typescript": "^5.1.6"
+    "typescript": "^5.1.6",
+    "webpack": "^5.x",
+    "webpack-cli": "^5.x"
   },
   "engines": {
     "node": ">=18.0.0"
